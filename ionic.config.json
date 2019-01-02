@@ -1,6 +1,8 @@
 {
   "name": "billetera",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular",
   "id": "1c2c7f96"
 }
